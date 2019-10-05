@@ -1,5 +1,5 @@
 <?php
-$dsn = 'mysql:host=rds-web-system-roka.crqmemsomjjy.ap-northeast-1.rds.amazonaws.com;dbname=db_roka';
+$dsn = 'mysql:host=rds-web-system-roka2.crqmemsomjjy.ap-northeast-1.rds.amazonaws.com;dbname=db_roka';
 $username = 'web_user';
 $password = 'web_user';
 
