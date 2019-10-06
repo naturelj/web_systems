@@ -40,6 +40,6 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-Add comment by roka
+Add comment by roka Add comment by roka at 2
 </body>
 </html>
